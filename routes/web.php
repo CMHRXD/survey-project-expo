@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 /* Haciendo test de pull request */
+/* Hola */
 Route::get('/', function () {
     return view('welcome');
 });
