@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+/* Haciendo test de pull request */
 Route::get('/', function () {
     return view('welcome');
 });
